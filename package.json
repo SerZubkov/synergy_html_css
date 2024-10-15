@@ -1,0 +1,22 @@
+{
+  "name": "synergy_html_css",
+  "version": "1.0.0",
+  "description": "Программирование на языке верстки HTML и стилей CSS | Практические задания",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server ./projects"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerZubkov/synergy_html_css.git"
+  },
+  "author": "Зубков Сергей",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerZubkov/synergy_html_css/issues"
+  },
+  "homepage": "https://github.com/SerZubkov/synergy_html_css#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
